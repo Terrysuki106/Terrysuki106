@@ -73,25 +73,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/terrysuki106/terrysuki106/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/terrysuki106/terrysuki106/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/terrysuki106/terrysuki106/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 🎌 Philosophy
-> *Discipline builds skill. Skill builds freedom.*
-
----
-
 ## ⚡ Fun Zone
 - 🎮 Minecraft, co-op games, and late-night grinding
 - 🎧 Hikaru Utada and anime soundtracks
