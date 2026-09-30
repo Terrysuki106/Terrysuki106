@@ -82,4 +82,4 @@
 ---
 
 ## 🌸 Aesthetic Note
-> *Still loading... but never idle.*
+> *The Project is build in head before the keyboard is even touched.*
