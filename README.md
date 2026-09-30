@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Tanveer%20Singh%20Jandu&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20C%2B%2B%20Builder%20%E2%80%A2%20Future%20Pilot&descAlignY=55&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Tanveer%20Singh%20Jandu&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Code%20Builder%20%E2%80%A2%20Aviation%20Enthusiast&descAlignY=55&animation=fadeIn" alt="banner"/>
 
 <br/>
 
@@ -19,8 +19,7 @@
 
 ## ⚔️ About Me
 - 🎓 Computer Science Student at **Conestoga College**
-- 💼 Seeking **Summer 2026 Software Development Co-op**
-- 🚗 Building a **Virtual ECU Project** using **C++ + Python**
+- 💼 Seeking **Full-Time/Part-Time Projects**
 - 🧠 Interested in systems programming, automation, and real-world software
 - ✈️ Long-term goal: blending **tech + aviation**
 
